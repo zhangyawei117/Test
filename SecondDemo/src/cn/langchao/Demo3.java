@@ -7,5 +7,6 @@ public class Demo3
     @Test
     public void test() {
         System.out.println("ÀÏºÚºÃ£¡£¡");
+        System.out.println("ai keng bi ");
     }
 }
